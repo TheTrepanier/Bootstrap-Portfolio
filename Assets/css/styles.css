@@ -1,0 +1,35 @@
+/* 
+Colors
+
+#90AFC5 mist
+#336B87 stone -> .name-in-header, h2
+#2A3132 shadow -> body, a
+#763626 autumn foliage -> a:hover
+#ededed white-ish -> background
+
+---------------------------------*/
+
+/* 
+Global Styles
+---------------------------------*/
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+/* 
+Media Queries
+---------------------------------*/
+
+@media (min-width: 576px){
+    .profile-img {
+        width: 41.66666667%;
+        float: left;
+    }
+    .profile-text {
+        width: 100%;
+    }
+}
