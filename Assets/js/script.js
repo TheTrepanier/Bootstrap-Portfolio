@@ -11,14 +11,14 @@ var repoArrObj = [
         repo: "https://github.com/TheTrepanier/jQuery-rpg",
         liveLink: "https://thetrepanier.github.io/jQuery-rpg/",
         img: "Assets/images/jQuer-rpg.png",
-        description: "You wanna be the very best? This RPG written in jQuery is a simplified verision of the popular Pokemon games"
+        description: "You wanna be the very best? This RPG written in jQuery is a simplified verision of the popular Pokemon franchise"
     },
     {
-        name: "Trivia Game",
-        repo: "https://github.com/TheTrepanier/trivia-game",
-        liveLink: "https://thetrepanier.github.io/trivia-game/",
-        img: "Assets/images/trivia-game.png",
-        description: "Wands away, and grab your quills! Today you take your final exams at Hogwarts School for Witchcraft and Wizardry"
+        name: "Chez Munchlax",
+        repo: "https://github.com/TheTrepanier/hamburguesa",
+        liveLink: "https://hidden-brushlands-93351.herokuapp.com/",
+        img: "Assets/images/chez-munchlax.png",
+        description: "Grab a seat and have a delicious burger compliments of the chef! Chez Munchlax is a simple web app that utilizes Express.js, Handlebars, and MySQL to deliver a fun experiance."
     },
     {
         name: "NightOut!",
